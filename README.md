@@ -8,7 +8,7 @@ For step by step explanation visit the [tutorial]().
 To get you started you will need to clone this repository, by running
 
 ```
-git clone https://github.com/ElenaJovchevska/offlineMessagesCache.git
+git clone https://github.com/ElenaJovchevska/offlineMessagesLocalCache.git
 
 ```
 
