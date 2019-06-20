@@ -1,7 +1,7 @@
 # Integrate Chatkit in iOS Application  
 
 This project is a sample chat iOS Application that uses the Chatkit SDK by Pusher. 
-For step by step explanation visit the [tutorial](). 
+For step by step explanation visit the [tutorial](https://pusher.com/tutorials/local-cache-offline-messages-ios). 
 
 ## Getting Started
 
